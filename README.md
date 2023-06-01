@@ -1,2 +1,2 @@
 # Proga_DZ_2023spring
-# f
+truckbg.png - задний фон окна
